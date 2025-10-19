@@ -29,7 +29,4 @@ Gosto de criar projetos que misturam lógica. Atualmente, estou aprimorando meus
 
 📫 **E-mail:** isabelmelo630@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/isabel-melo-a94a89275/
-
-
-✨ *"Transformando ideias em código e sonhos em projetos."*  
-
+ 
