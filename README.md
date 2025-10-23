@@ -6,7 +6,7 @@
 Gosto de criar projetos que misturam lógica. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento front-end e back-end.
 
 
- Tecnologias
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bel-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
