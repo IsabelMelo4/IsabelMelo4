@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
  Conhecimentos em **Java**, **Python** e **Desenvolvimento Web**  
 
-Gosto de criar projetos atualmente, estou aprimorando meus conhecimentos em desenvolvimento front-end e back-end.
+Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end e back-end.
 
 
 
