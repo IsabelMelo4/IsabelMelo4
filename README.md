@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
  Conhecimentos em **Java**, **Python** e **Desenvolvimento Web**  
 
-Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end e back-end.
+Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em desenvolvimento back-end.
 
 
 
@@ -19,11 +19,8 @@ Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em dese
 </div>
 
 
-
-
-
-
-
+<div>
 📫 **E-mail:** isabelmelo630@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/isabel-melo-a94a89275/
- 
+ </div>
+
