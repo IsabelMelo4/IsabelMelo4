@@ -1,38 +1,53 @@
-##  Olá! Eu sou a Bel
-
-Estudante de **Análise e Desenvolvimento de Sistemas**  
-Conhecimentos em **Java**, **Python**, **Spring Boot** **APIs Rest**, e **Banco de dados**   
-
-Atualmente, gosto de criar projetos práticos e estou focada em aprimorar meus conhecimentos em **desenvolvimento back-end**.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelMelo4&layout=compact)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake-dark.svg">
-  <img align="center"
-    src="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
-### Tecnologias e Ferramentas
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
-
-
-
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/isabelmelof" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:isabelmelo630@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=620&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+;%E2%8A%B9+Desenvolvedora+Back-end"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
+<br>
 
+<div>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelMelo4&layout=compact&locale=pt-br&bg_color=000000&title_color=1F6FEB&text_color=E6EDF3&border_color=1F6FEB" 
+    width="380" 
+    align="right" 
+    alt="Linguagens mais usadas"
+  />
+
+  <p>
+    Sou desenvolvedora <b>back-end</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, 
+    com foco em <b>Java</b>, <b>Spring Boot</b> e bancos de dados. 
+    Gosto de criar projetos, aprender novas tecnologias e aprimorar minhas habilidades 
+    no desenvolvimento de software.
+  </p>
+</div>
+<br>
+<div align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" alt="Java" />&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" alt="Python" />&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="60" alt="Spring Boot" />&nbsp;
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" alt="MySQL" />
+</div>
+
+<br>
+   <h3>Contatos!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelmelo630@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Isabelmelof/)
+</div>
+
+  
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</picture>
