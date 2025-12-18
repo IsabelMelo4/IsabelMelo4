@@ -39,6 +39,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Isabelmelof/)
 </div>
 
+<br>
 <div align="center">
   
   ![Image](https://github.com/user-attachments/assets/7958050c-5733-4b34-9cf9-2b11e7640277)
