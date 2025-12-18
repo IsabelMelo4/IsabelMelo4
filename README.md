@@ -5,6 +5,7 @@
 
 Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em desenvolvimento back-end.
 
+ ![Image](https://github.com/user-attachments/assets/5cd7cf3a-5046-4e4b-a995-decd3fe75e1f)
 
 
 <div style="display: inline_block"><br>
@@ -23,5 +24,6 @@ Gosto de criar projetos, atualmente estou aprimorando meus conhecimentos em dese
 <div> 
   <a href="https://www.linkedin.com/in/isabelmelof" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "isabelmelo630@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
