@@ -9,13 +9,7 @@
 
 <br>
 
-<div>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelMelo4&layout=compact&locale=pt-br&bg_color=000000&title_color=1F6FEB&text_color=E6EDF3&border_color=1F6FEB" 
-    width="380" 
-    align="right" 
-    alt="Linguagens mais usadas"
-  />
+
 
   <p>
     Sou desenvolvedora <b>back-end</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, 
