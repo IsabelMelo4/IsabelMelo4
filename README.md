@@ -1,52 +1,52 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&random=false&width=620&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+;%E2%8A%B9+Desenvolvedora+Back-end"
-      alt="Typing SVG"
-    />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&animation=fadeIn&fontAlignY=38"/>
+
+# Olá, eu sou Isabel 
+
+```java
+Backend Developer | Java • Spring • PostgreSQL • JavaScript
+```
+
+Desenvolvedora focada em backend, criando APIs, aplicações backend e projetos voltados para arquitetura de software e banco de dados.  
+Também estudo padrões de projeto e desenvolvimento de aplicações escaláveis.
+
 </div>
 
-<br>
+# Tecnologias
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,js,nodejs,html,css,git,github,vscode" />
 
-  <p>
-    Sou desenvolvedora <b>back-end</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, 
-    com foco em <b>Java</b>, <b>Spring Boot</b> e bancos de dados. 
-    Gosto de criar projetos, aprender novas tecnologias e aprimorar minhas habilidades 
-    no desenvolvimento de software.
-  </p>
-</div>
-<br>
-<div align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="60" alt="Java" />&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" alt="Python" />&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" width="60" alt="Spring Boot" />&nbsp;
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" alt="MySQL" />
 </div>
 
-<br>
-   <h3>Contatos!</h3>
+# Projetos em Destaque
+
+<div align="center">
+  
+<a href="https://github.com/IsabelMelo4/to-do-list">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelMelo4&repo=to-do-list&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/IsabelMelo4/TicketGo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=IsabelMelo4&repo=TicketGo&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
+
+
+<h3>Contatos!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelmelo630@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/Isabelmelof/)
 </div>
 
 <br>
+
+
 <div align="center">
-  
-  ![Image](https://github.com/user-attachments/assets/7958050c-5733-4b34-9cf9-2b11e7640277)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=footer"/>
 
 </div>
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/IsabelMelo4/IsabelMelo4/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  />
-</picture>
