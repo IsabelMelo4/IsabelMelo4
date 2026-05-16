@@ -5,7 +5,6 @@
 # Olá, eu sou Isabel 
 
 Desenvolvedora focada em backend, criando APIs, aplicações backend e projetos voltados para arquitetura de software e banco de dados.  
-.
 
 </div>
 <br>
