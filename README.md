@@ -71,7 +71,7 @@ Projeto focado em modelagem relacional e SQL.
 - SQL
 
 
-<a href="#">
+<a href="https://github.com/IsabelMelo4/cinema-management-db.git">
 Ver Projeto
 </a>
 
