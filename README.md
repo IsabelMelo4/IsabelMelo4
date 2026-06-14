@@ -19,67 +19,6 @@ Desenvolvedora focada em backend, criando APIs, aplicações backend e projetos 
 
 <br><br>
 
-#  Projetos em Destaque
-
-<table>
-<tr>
-
-<td width="33%">
-
-##  To Do List API
-
-API backend desenvolvida com foco em gerenciamento de tarefas.
-
-### Tecnologias
-- Java
-- Spring Boot
-- PostgreSQL
-
-
-<a href="https://github.com/IsabelMelo4/to-do-list">
-Ver Projeto
-</a>
-
-</td>
-
-<td width="33%">
-
-##  TicketGo
-
-Sistema de gerenciamento e compra de ingressos.
-
-### Tecnologias
-- JavaScript
-- HTML
-- CSS
-
-
-<a href="https://github.com/IsabelMelo4/TicketGo">
-Ver Projeto
-</a>
-
-</td>
-
-<td width="33%">
-
-## Banco de Dados
-
-Projeto focado em modelagem relacional e SQL.
-
-### Tecnologias
-- PostgreSQL
-- SQL
-
-
-<a href="https://github.com/IsabelMelo4/cinema-management-db.git">
-Ver Projeto
-</a>
-
-</td>
-
-</tr>
-</table>
-<br>
 
 # Contatos
 
